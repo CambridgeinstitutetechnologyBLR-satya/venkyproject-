@@ -52,3 +52,12 @@ Modes:
 - 11 → Output = 01010101
 
 Observe the result on `uo_out[7:0]`.
+
+
+
+
+
+
+
+
+
